@@ -3,7 +3,8 @@
 Original file is located at
     https://colab.research.google.com/drive/1WzC9c7fuUEU2yAxFPjvUb-6Zns-S3ALg
 
-# Santander Dev Week 2023 (ETL com Python)
+# Santander Dev Week 2023 (ETL com Python) - Desafio de Projeto DIO.
+
 
 **Contexto:** Você é um cientista de dados no Santander e recebeu a tarefa de envolver seus clientes de maneira mais personalizada. Seu objetivo é usar o poder da IA Generativa para criar mensagens de marketing personalizadas que serão entregues a cada cliente.
 
